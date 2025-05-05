@@ -7,7 +7,8 @@ Interfaz del programa
 
 
 
-![Logo](https://github.com/ROCKEMMA/protafolio-java/blob/main/Captura%20de%20pantalla%20-2025-03-18%2008-53-00.png?raw=true)
+![Logo](https://github.com/ROCKEMMA/protafolio-java/blob/main/captura.png?raw=true)
+
 
 
 ## Instrucciones
